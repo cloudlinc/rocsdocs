@@ -2,46 +2,52 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Getting Started
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to Rocket Online Schools (ROCS)! This guide will help you get started and navigate through the essentials to ensure a smooth beginning to your online learning journey.
 
-## Getting Started
+## What You’ll Need
 
-Get started by **creating a new site**.
+To begin your experience with Rocket Online Schools, make sure you have the following:
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- A Chromebook or a Mac/Windows computer.
+- Access to the Acellus online curriculum platform (you’ll receive login details from your teacher).
+- A reliable internet connection.
+- A dedicated space where you can focus on your studies.
 
-### What you'll need
+## Setting Up Your Chromebook
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+If you’ve received a Chromebook from Rocket Online Schools, follow these steps to get set up:
 
-## Generate a new site
+1. Power on your Chromebook by pressing the power button.
+2. Connect to Wi-Fi by selecting your network and entering the password.
+3. Log in using the credentials provided by your ROCS teacher.
+4. Once logged in, you’ll see the Acellus platform. This is where your coursework and lessons will be available.
 
-Generate a new Docusaurus site using the **classic template**.
+## Accessing the Acellus Platform
 
-The classic template will automatically be added to your project after you run the command:
+Acellus is your gateway to your classes, assignments, and progress tracking.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+1. Open the Acellus app on your Chromebook or visit the website on your computer.
+2. Log in using your provided username and password.
+3. Explore your courses and familiarize yourself with the platform’s layout.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+If you have trouble logging in or accessing your courses, please reach out to support@rocs.org for assistance.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## Getting Help
 
-## Start your site
+If you encounter any issues while getting started:
 
-Run the development server:
+- **Technical Issues:** For help with Chromebook problems, logging into Acellus, or accessing your coursework, contact support@rocs.org.
+- **Academic Support:** For questions about your courses or assignments, reach out to your assigned teacher via email or the Acellus messaging system.
+- **General Inquiries:** If you have any general questions about Rocket Online Schools, feel free to contact our support team.
 
-```bash
-cd my-website
-npm run start
-```
+## Staying On Track
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+To ensure success at Rocket Online Schools:
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+- Check your Acellus dashboard daily for assignments and announcements.
+- Communicate regularly with your teachers and advisors.
+- Set a routine that helps you stay focused and organized.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We’re excited to have you at Rocket Online Schools and are here to support you every step of the way!

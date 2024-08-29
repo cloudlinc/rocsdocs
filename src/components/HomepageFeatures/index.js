@@ -4,27 +4,27 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Accessible Support',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+      ROCS Support is designed to be easily accessible for students, parents, and staff.
+      Whether it's Chromebook issues or enrollment help, our team is here to assist.
+    </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Dedicated Assistance',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        ROCS Support prioritizes the educational experience of every student.
+        From technical support to course management, we're dedicated to helping students succeed.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Student-Centered Approach',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
