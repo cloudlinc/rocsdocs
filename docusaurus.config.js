@@ -9,8 +9,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'ROCS DOCS',
-  tagline: 'Free K-12 Virtual School. Learn from anywhere!',
-  favicon: 'img/favicon.ico',
+  tagline: 'Guides and Resources for Rocket Online Schools',
+  favicon: 'img/favi.png',
 
   // Set the production url of your site here
   url: 'https://www.rocs.org',

@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Accessible Support',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/astronaut.svg').default,
     description: (
       <>
       ROCS Support is designed to be easily accessible for students, parents, and staff.
@@ -15,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Dedicated Assistance',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/icon2.svg').default,
     description: (
       <>
         ROCS Support prioritizes the educational experience of every student.
@@ -25,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Student-Centered Approach',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/icon3.svg').default,
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
