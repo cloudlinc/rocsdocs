@@ -17,3 +17,14 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+
+rocs:
+  label: ROCS
+  permalink: /rocs
+  description: ROCS tag description
+
+1st-day-of-school:
+  label: 1st Day of School
+  permalink: /1st-day-of-school
+  description: 1st Day of School tag description
+

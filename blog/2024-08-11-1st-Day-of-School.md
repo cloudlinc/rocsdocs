@@ -2,7 +2,7 @@
 slug: orientation-1st-day-of-school
 title: Orientation - 1st Day of School
 authors: [ROCS]
-tags: [ROCS, 1st Day of School]
+tags: [ROCS, 1st-day-of-school]
 ---
 
 Rocket Online Schools
