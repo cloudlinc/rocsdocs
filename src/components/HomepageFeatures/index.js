@@ -9,7 +9,6 @@ const FeatureList = [
     description: (
       <>
         ROCS Support is designed to be easily accessible for students, parents, and staff.
-        Whether it's Chromebook issues or enrollment help, our team is here to assist.
       </>
     ),
   },
@@ -19,7 +18,6 @@ const FeatureList = [
     description: (
       <>
         ROCS Support prioritizes the educational experience of every student.
-        From technical support to course management, we're dedicated to helping students succeed.
       </>
     ),
   },
@@ -28,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/icon3.svg').default,
     description: (
       <>
-        Our approach focuses on the needs and success of each student, ensuring they have the resources and support to thrive.
+        We focus on creating a supportive environment tailored to each student's unique needs.
       </>
     ),
   },
