@@ -8,9 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/astronaut.svg').default,
     description: (
       <>
-      ROCS Support is designed to be easily accessible for students, parents, and staff.
-      Whether it's Chromebook issues or enrollment help, our team is here to assist.
-    </>
+        ROCS Support is easily accessible for students, parents, and staff.
+      </>
     ),
   },
   {
@@ -19,7 +18,6 @@ const FeatureList = [
     description: (
       <>
         ROCS Support prioritizes the educational experience of every student.
-        From technical support to course management, we're dedicated to helping students succeed.
       </>
     ),
   },
@@ -28,8 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/icon3.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our approach focuses on the needs and success of each student.
       </>
     ),
   },
