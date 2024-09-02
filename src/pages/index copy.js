@@ -8,22 +8,14 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
+  const {siteConfig} = useDocusaurusContext();
   return (
-    <header
-      className={clsx(styles.heroBanner)}
-      style={{
-        display: 'block', // Ensure it's displayed for debugging
-        backgroundColor: 'var(--ifm-background-color)', // Use CSS variable for background color
-      }}
-    >
+    <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title" style={{ color: 'white' }}>
+        <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
-        <p className="hero__subtitle" style={{ color: 'white' }}>
-          {siteConfig.tagline}
-        </p>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
@@ -37,7 +29,7 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const { siteConfig } = useDocusaurusContext();
+  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title={`Welcome to ${siteConfig.title}`}

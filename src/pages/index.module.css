@@ -6,18 +6,44 @@
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
-  position: relative;
-  overflow: hidden;
+  display: none; /* Default to hidden */
 }
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+.heroBanner .hero__title {
+  color: #FFFFFF; /* White color for better contrast on red background */
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.hero__subtitle {
+  font-size: 1.25rem;
+  margin-bottom: 2rem;
 }
 
 .buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  margin-top: 2rem;
+}
+
+/* Show the banner in light mode with red background */
+[data-theme='light'] .heroBanner {
+  display: block !important;
+  background-color: #DE101A !important; /* Red background for light mode */
+}
+
+/* Make the banner background transparent in dark mode */
+[data-theme='dark'] .heroBanner {
+  display: block !important;
+  background-color: transparent !important; /* Transparent background for dark mode */
+}
+
+/* Ensure text is white in light mode */
+[data-theme='light'] .heroBanner .hero__title,
+[data-theme='light'] .heroBanner .hero__subtitle {
+  color: #FFFFFF !important; /* White color for text in light mode */
+}
+
+/* Ensure text is white in light mode for the main description */
+[data-theme='light'] .main .hero__title,
+[data-theme='light'] .main .hero__subtitle {
+  color: #FFFFFF !important; /* White color for text in light mode */
 }
