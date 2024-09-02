@@ -87,11 +87,11 @@ const config = {
             position: 'left',
             label: 'Guides',
           },
-          {to: '/category/chromebook-support', 
+          {to: '/docs/category/chromebook-support', 
             label: 'Chromebook Help', 
             position: 'left'
           },
-          {to: '/category/acellus-support', 
+          {to: '/docs/category/acellus-support', 
             label: 'Acellus Help', 
             position: 'left'
           },
