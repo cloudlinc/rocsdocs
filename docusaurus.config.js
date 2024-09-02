@@ -87,7 +87,18 @@ const config = {
             position: 'left',
             label: 'Guides',
           },
-          {to: '/blog', label: 'News', position: 'left'},
+          {to: '/category/chromebook-support', 
+            label: 'Chromebook Help', 
+            position: 'left'
+          },
+          {to: '/category/acellus-support', 
+            label: 'Acellus Help', 
+            position: 'left'
+          },
+          {to: '/blog', 
+            label: 'News', 
+            position: 'left'
+          },
           {
             href: 'https://www.rocs.org',
             label: 'ROCS Website',
