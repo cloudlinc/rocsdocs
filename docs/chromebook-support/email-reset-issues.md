@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Email Reset Issues
 
-## Problem:
+## Problem: 
 Student or parent needs an email reset.
 
 ## Solution:
