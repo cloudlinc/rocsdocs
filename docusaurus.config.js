@@ -113,8 +113,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Guides',
+                label: 'Family Guide',
                 to: '/docs/intro',
+              },
+              {
+                label: 'Staff Guide',
+                to: '/docs/staff-intro',
+              },
+              {
+                label: 'Events',
+                to: '/docs/events',
               },
             ],
           },
