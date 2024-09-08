@@ -9,24 +9,39 @@ const FeatureList = [
     description: (
       <>
         ROCS Support is designed to be easily accessible for students, parents, and staff.
+        <div className="button-container" style={{ padding: '15px 0' }}>
+          <a href="/docs/intro" className="button button--secondary button--lg" style={{ padding: '12px 24px', fontSize: '16px' }}>
+            Get Started
+          </a>
+        </div>
       </>
     ),
   },
   {
-    title: 'Dedicated Assistance',
-    Svg: require('@site/static/img/icon2.svg').default,
+    title: 'Events and Calendar',
+    Svg: require('@site/static/img/events.svg').default,
     description: (
       <>
-        ROCS Support prioritizes the educational experience of every student.
+        Stay updated with ROCS events and important dates. Never miss a school activity or deadline.
+        <div className="button-container" style={{ padding: '15px 0' }}>
+          <a href="https://www.rocs.org/events?view=cal-month" className="button button--secondary button--lg" style={{ padding: '12px 24px', fontSize: '16px' }}>
+            View Events Calendar
+          </a>
+        </div>
       </>
     ),
   },
   {
-    title: 'Student-Centered Approach',
-    Svg: require('@site/static/img/icon3.svg').default,
+    title: 'Contact Us',
+    Svg: require('@site/static/img/support.svg').default,
     description: (
       <>
-        We focus on creating a supportive environment tailored to each student's unique needs.
+        Have questions or need assistance? We're here to help. Reach out to our dedicated support team.
+        <div className="button-container" style={{ padding: '15px 0' }}>
+          <a href="https://rocs.org/contact" className="button button--secondary button--lg" style={{ padding: '12px 24px', fontSize: '16px' }}>
+            Contact Support
+          </a>
+        </div>
       </>
     ),
   },

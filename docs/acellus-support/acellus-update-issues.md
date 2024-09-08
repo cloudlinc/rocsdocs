@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Chrome and Acellus Update Issues
+# Acellus Update Issues
 
 ### Problem:
 Student sees a message like "Can you walk me through how to do an update for Chrome and Acellus please? It is saying an update is required but not giving me the option to launch it. I've checked all settings and there's nowhere for an update for Chrome and Acellus."
