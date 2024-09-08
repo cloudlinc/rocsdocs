@@ -28,3 +28,24 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Calendar styles */
+.rbc-calendar {
+  font-family: var(--ifm-font-family-base);
+}
+
+.rbc-header {
+  background-color: var(--ifm-color-primary);
+  color: var(--ifm-color-white);
+  padding: 10px;
+  font-weight: bold;
+}
+
+.rbc-event {
+  background-color: var(--ifm-color-primary);
+  border-radius: 5px;
+}
+
+.rbc-today {
+  background-color: var(--ifm-color-primary-lightest);
+}

@@ -1,0 +1,23 @@
+/* Add this import to your _app.tsx or equivalent */
+@import 'react-big-calendar/lib/css/react-big-calendar.css';
+
+.rbc-calendar {
+  font-family: 'Your preferred font', sans-serif;
+}
+
+.rbc-header {
+  background-color: #f3f4f6;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.rbc-event {
+  background-color: #3b82f6;
+  border-radius: 5px;
+}
+
+.rbc-today {
+  background-color: #e5e7eb;
+}
+
+/* Add more custom styles as needed */

@@ -104,6 +104,7 @@ const config = {
             label: 'ROCS Website',
             position: 'right',
           },
+          {to: '/docs/events', label: 'Events', position: 'left'},
         ],
       },
       footer: {
