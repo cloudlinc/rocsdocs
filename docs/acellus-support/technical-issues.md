@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-## Technical Issues
+# Technical Issues
 
 ### Problem:
 Student encounters technical issues, such as videos not playing.

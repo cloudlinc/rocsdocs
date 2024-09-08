@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-## Chromebook Release for Graduated Students
+# Chromebook Release for Graduated Students
 
 ### Problem:
 Chromebook needs to be released for use, or the student has graduated.

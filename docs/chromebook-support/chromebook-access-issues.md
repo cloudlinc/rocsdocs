@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-## Chromebook Access Issues
+# Chromebook Access Issues
 
 ### Problem:
 The Chromebook is locked with a password or the student cannot access specific links.

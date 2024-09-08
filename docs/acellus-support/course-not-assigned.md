@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-## Course Not Assigned
+# Course Not Assigned
 
 ### Problem:
 Student does not see the correct courses in Acellus.

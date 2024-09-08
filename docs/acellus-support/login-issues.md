@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-## Login Issues
+# Login Issues
 
 ### Problem:
 Student is unable to log in to Acellus.
