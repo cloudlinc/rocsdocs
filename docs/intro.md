@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Getting Started
+# ROCS Family Guide
 
 Welcome to Rocket Online Schools (ROCS)! This guide will help you get started and navigate through the essentials to ensure a smooth beginning to your online learning journey.
 
