@@ -33,12 +33,12 @@ const FeatureList = [
   },
   {
     title: 'Contact Us',
-    Svg: require('@site/static/img/support.svg').default,
+    Svg: require('@site/static/img/icon2.svg').default,
     description: (
       <>
         Have questions or need assistance? We're here to help. Reach out to our dedicated support team.
         <div className="button-container" style={{ padding: '15px 0' }}>
-          <a href="https://rocs.org/contact" className="button button--secondary button--lg" style={{ padding: '12px 24px', fontSize: '16px' }}>
+          <a href="https://www.rocs.org/page/contact" className="button button--secondary button--lg" style={{ padding: '12px 24px', fontSize: '16px' }}>
             Contact Support
           </a>
         </div>
