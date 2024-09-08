@@ -76,6 +76,16 @@ function CalendarComponent() {
         startAccessor="start"
         endAccessor="end"
         style={{ height: '100%' }}
+        eventPropGetter={(event, start, end, isSelected) => ({
+          style: {
+            backgroundColor: '#DE101A',
+            borderRadius: '5px',
+            opacity: 0.8,
+            color: 'white',
+            border: '0px',
+            display: 'block'
+          }
+        })}
       />
     </div>
   );

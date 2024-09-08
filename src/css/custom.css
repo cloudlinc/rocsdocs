@@ -31,21 +31,28 @@
 
 /* Calendar styles */
 .rbc-calendar {
-  font-family: var(--ifm-font-family-base);
+  font-family: var(--ifm-font-family-base) !important;
 }
 
-.rbc-header {
-  background-color: var(--ifm-color-primary);
-  color: var(--ifm-color-white);
-  padding: 10px;
-  font-weight: bold;
+.rbc-calendar .rbc-header {
+  background-color: var(--ifm-color-primary) !important;
+  color: var(--ifm-color-white) !important;
+  padding: 10px !important;
+  font-weight: bold !important;
 }
 
-.rbc-event {
-  background-color: var(--ifm-color-primary);
-  border-radius: 5px;
+.rbc-calendar .rbc-event {
+  background-color: #DE101A !important;
+  border-radius: 5px !important;
+  opacity: 0.8 !important;
+  color: white !important;
+  border: 0px !important;
 }
 
-.rbc-today {
-  background-color: var(--ifm-color-primary-lightest);
+.rbc-calendar .rbc-today {
+  background-color: var(--ifm-color-primary-lightest) !important;
+}
+
+.rbc-calendar .rbc-event.rbc-selected {
+  background-color: #A31015 !important;
 }
