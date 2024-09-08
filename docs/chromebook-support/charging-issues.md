@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-## Charging Issues
+# Charging Issues
 
 ### Problem:
 Chromebook is not charging, or the charger appears to be faulty.
