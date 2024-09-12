@@ -26,7 +26,3 @@ Provide instructions for returning the faulty Chromebook if necessary.
 #### Tips:
 Quick Diagnosis: Suggest that the parent try charging the Chromebook with a different power outlet to rule out issues with the electrical source.
 Replacement Process: Clearly communicate the expected timeline for receiving a replacement to manage expectations.
-
-### Need More Help?
-- If you are still experiencing issues, please contact support@rocs.org or call (888) 303-7077.
-- You can also [submit a support ticket](#).

@@ -28,7 +28,3 @@ The Shipping/Support Team should send a replacement Chromebook.
 ### Tips:
 - Ensure the Chromebook is connected to a stable internet connection before attempting updates.
 - Remind users to save any important data before performing a Powerwash, as it will erase all local data.
-
-### Need More Help?
-- If you are still experiencing issues, please contact support@rocs.org or call (888) 303-7077.
-- You can also [submit a support ticket](#).
