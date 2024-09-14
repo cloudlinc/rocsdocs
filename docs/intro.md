@@ -2,52 +2,52 @@
 sidebar_position: 1
 ---
 
-# ROCS Family Guide
+# ROCS Staff Guide
 
-Welcome to Rocket Online Schools (ROCS)! This guide will help you get started and navigate through the essentials to ensure a smooth beginning to your online learning journey.
+Welcome to Rocket Online Schools (ROCS)! This guide will help you assist families and students in getting started and ensure a smooth beginning to their online learning journey.
 
-## What You’ll Need
+## What Students Will Need
 
-To begin your experience with Rocket Online Schools, make sure you have the following:
+Ensure that each student is set up with the following essentials:
 
-- A Chromebook or a Mac/Windows computer.
-- Access to the Acellus online curriculum platform (you’ll receive login details from your teacher).
+- A Chromebook provided by ROCS, or a Mac/Windows computer.
+- Access to the Acellus online curriculum platform (login details provided by the teacher).
 - A reliable internet connection.
-- A dedicated space where you can focus on your studies.
+- A dedicated space where the student can focus on their studies.
 
-## Setting Up Your Chromebook
+## Assisting with Chromebook Setup
 
-If you’ve received a Chromebook from Rocket Online Schools, follow these steps to get set up:
+When helping students set up their Chromebook, follow these steps:
 
-1. Power on your Chromebook by pressing the power button.
-2. Connect to Wi-Fi by selecting your network and entering the password.
-3. Log in using the credentials provided by your ROCS teacher.
-4. Once logged in, you’ll see the Acellus platform. This is where your coursework and lessons will be available.
+1. Guide the family in powering on the Chromebook by pressing the power button.
+2. Assist them in connecting to Wi-Fi by selecting the appropriate network and entering the password.
+3. Provide the login credentials assigned to the student and help them log in.
+4. Ensure that the Acellus platform is visible on the home screen, where coursework and lessons will be accessible.
 
 ## Accessing the Acellus Platform
 
-Acellus is your gateway to your classes, assignments, and progress tracking.
+Acellus is the platform students use for their classes, assignments, and progress tracking. When assisting students:
 
-1. Open the Acellus app on your Chromebook or visit the website on your computer.
-2. Log in using your provided username and password.
-3. Explore your courses and familiarize yourself with the platform’s layout.
+1. Instruct them to open the Acellus app on their Chromebook or visit the website on their computer.
+2. Ensure they use the correct username and password to log in.
+3. Encourage them to explore their courses and get familiar with the platform's layout.
 
-If you have trouble logging in or accessing your courses, please reach out to support@rocs.org for assistance.
+If students experience any login or access issues, direct them to contact support@rocs.org for assistance, or submit a support ticket on their behalf.
 
-## Getting Help
+## Providing Help and Support
 
-If you encounter any issues while getting started:
+As support staff or teachers, you may encounter different types of issues. Here's how to address them:
 
-- **Technical Issues:** For help with Chromebook problems, logging into Acellus, or accessing your coursework, contact support@rocs.org.
-- **Academic Support:** For questions about your courses or assignments, reach out to your assigned teacher via email or the Acellus messaging system.
-- **General Inquiries:** If you have any general questions about Rocket Online Schools, feel free to contact our support team.
+- **Technical Issues**: For Chromebook malfunctions, Acellus login problems, or coursework access issues, ensure the family contacts support@rocs.org or submit a ticket. Follow up as necessary to provide timely support.
+- **Academic Support**: Be responsive to student questions about their courses or assignments through email or the Acellus messaging system.
+- **General Inquiries**: Address general questions about Rocket Online Schools or direct families to the appropriate department, including our support team.
 
-## Staying On Track
+## Keeping Students on Track
 
-To ensure success at Rocket Online Schools:
+Help students succeed by encouraging them to:
 
-- Check your Acellus dashboard daily for assignments and announcements.
-- Communicate regularly with your teachers and advisors.
-- Set a routine that helps you stay focused and organized.
+- Check their Acellus dashboard daily for assignments and announcements.
+- Communicate regularly with their teachers and advisors.
+- Maintain a consistent study routine that helps them stay focused and organized.
 
-We’re excited to have you at Rocket Online Schools and are here to support you every step of the way!
+We appreciate your commitment to supporting students at Rocket Online Schools. Let's ensure their success together!
