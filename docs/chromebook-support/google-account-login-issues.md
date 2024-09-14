@@ -4,7 +4,6 @@ sidebar_position: 2
 
 # Google Account Login Issues
 
-### Problem:
 When attempting to log in, the system states that it cannot find the Google account.
 
 ### Solution:
