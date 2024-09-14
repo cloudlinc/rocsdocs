@@ -1,16 +1,16 @@
 new Crawler({
-    appId: 'YOUR_APP_ID',
-    apiKey: 'YOUR_API_KEY',
+    appId: '6ORRKTLXU8',
+    apiKey: '1dc0b27015aa8223879d77f825de5ec5',
     rateLimit: 8,
     maxDepth: 10,
-    startUrls: ['https://YOUR_WEBSITE_URL/'],
-    sitemaps: ['https://YOUR_WEBSITE_URL/sitemap.xml'],
+    startUrls: ['https://www.rocsdocs.com/'],
+    sitemaps: ['https://www.rocsdocs.com/sitemap.xml'],
     ignoreCanonicalTo: true,
-    discoveryPatterns: ['https://YOUR_WEBSITE_URL/**'],
+    discoveryPatterns: ['https://www.rocsdocs.com/**'],
     actions: [
       {
         indexName: 'YOUR_INDEX_NAME',
-        pathsToMatch: ['https://YOUR_WEBSITE_URL/**'],
+          pathsToMatch: ['https://www.rocsdocs.com/**'],
         recordExtractor: ({ $, helpers }) => {
           // priority order: deepest active sub list header -> navbar active item -> 'Documentation'
           const lvl0 =
