@@ -104,6 +104,11 @@ const config = {
             position: 'right',
           },
           {to: '/docs/events', label: 'Events', position: 'left'},
+          {
+            type: 'search',
+            position: 'right',
+            className: 'custom-search-bar',
+          },
         ],
       },
       footer: {
@@ -169,7 +174,7 @@ const config = {
         indexName: 'rocscom',
   
         // Optional: see doc section below
-        contextualSearch: true,
+        contextualSearch: false,
   
         // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
         externalUrlRegex: 'external\\.com|domain\\.com',
@@ -194,5 +199,8 @@ const config = {
       // themes: ['@docusaurus/theme-search-algolia'],
     }),
 };
+
+// Add this line outside of themeConfig
+themes: ['@docusaurus/theme-search-algolia'];
 
 export default config;
