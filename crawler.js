@@ -9,7 +9,7 @@ new Crawler({
     discoveryPatterns: ['https://www.rocsdocs.com/**'],
     actions: [
       {
-        indexName: 'YOUR_INDEX_NAME',
+        indexName: 'rocscom',
           pathsToMatch: ['https://www.rocsdocs.com/**'],
         recordExtractor: ({ $, helpers }) => {
           // priority order: deepest active sub list header -> navbar active item -> 'Documentation'
