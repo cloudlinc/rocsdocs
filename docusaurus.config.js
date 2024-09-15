@@ -191,7 +191,7 @@ const config = {
   
         //... other Algolia params
       },
-      themes: ['@docusaurus/theme-search-algolia'],
+      // themes: ['@docusaurus/theme-search-algolia'],
     }),
 };
 
