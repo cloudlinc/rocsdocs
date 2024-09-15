@@ -114,11 +114,11 @@ const config = {
             items: [
               {
                 label: 'Family Guide',
-                to: '/docs/intro',
+                to: '/docs/family-intro',
               },
               {
                 label: 'Staff Guide',
-                to: '/docs/staff-intro',
+                to: '/docs/intro',
               },
               {
                 label: 'Events',
