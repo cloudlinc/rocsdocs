@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favi.png',
 
   // Set the production url of your site here
-  url: 'https://www.rocs.org',
+  url: 'https://www.rocsdocs.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
